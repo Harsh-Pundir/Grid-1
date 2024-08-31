@@ -23,7 +23,7 @@ body{
     grid-template-columns: repeat(3,.2fr);
     gap: 1rem ;
 }
-@media(min-width:768px){
+
 .child{
     color: rgb(255, 10, 10);
     border: 5px solid rgb(8, 23, 13);
@@ -53,5 +53,5 @@ body{
     grid-column-start: 2;
     grid-column-end: 3;
 }
-}
+
     
